@@ -1,2 +1,3 @@
 # revou-fundamental-se-2025
-untuk latihan ngoding atau sebagai bentuk tugas
+for coding exercise and just as as task
+i'm amateur
